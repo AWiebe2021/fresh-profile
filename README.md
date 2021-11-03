@@ -15,8 +15,8 @@ You are required to submit BOTH of the following for review:
 *The URL of the GitHub repository, with a unique name and a README describing the project.
 
 
--The link to the video: https://awiebe2021.github.io/React-portfolio/ \
--The projects code can be accessed at: https://github.com/AWiebe2021/React-portfolio
+-The link to the page: https://awiebe2021.github.io/fresh-profile/ \
+-The projects code can be accessed at: https://github.com/AWiebe2021/fresh-profile
 
 ## Screenshot
 ![React Portfolio](./Screenshot.png)
