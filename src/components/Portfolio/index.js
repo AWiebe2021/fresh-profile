@@ -31,8 +31,8 @@ function Portfolio() {
           </div>
 
           <div className="box">
-            <a href="https://afternoon-chamber-70504.herokuapp.com/">
-            <img src={img4} alt="screenshot of Tech Blog" />
+            <a href="https://quiet-waters-13147.herokuapp.com/">
+            <img src={img4} alt="screenshot of Otter Journal" />
             </a>
           </div>
 
