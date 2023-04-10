@@ -10,7 +10,7 @@ import img6 from '../../assets/images/img6.png';
 function Portfolio() {
   return (
     <section className="portfolio" id="portfolio">
-      <h1 className="heading"> my <span>portfolio</span> </h1>
+      <h1 className="heading"> my <span>portfolio - API's valid thru 10/22</span> </h1>
         <div className="box-container">
           <div className="box">
             <a href="https://awiebe2021.github.io/run-buddy/">
