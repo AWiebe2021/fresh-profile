@@ -8,7 +8,7 @@ function About() {
       <div className="row">
         <div className="info">
           <h3> <span> Name : </span> Aaron Wiebe </h3>
-          <h3> <span> Age : </span> 57 </h3>
+          <h3> <span> Age : </span> 58 </h3>
           <h3> <span> Post : </span> Full Stack Developer / IT Business Analyst </h3>
           <h3> <span> Technologies : </span> C++, AutoCAD, LISP, Borland Delphi,
            Agile development, HTML, CSS, Git, APIs, JSON, AJAX, JavaScript, JQuery, MERN</h3>
