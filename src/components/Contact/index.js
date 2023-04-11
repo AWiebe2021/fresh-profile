@@ -51,14 +51,7 @@ function Contact() {
         </div>
 
 
-{/*      <form action="">
-          <input type="text" placeholder="name" defaultValue={name} onBlur={handleChange} class="box"></input>
-          <input type="email" placeholder="email" defaultValue={email} onBlur={handleChange} class="box"></input>
-          <input type="text" placeholder="project" class="box"> 
-          <textarea name="message" id="" cols="30" rows="10" class="box message" placeholder="message" defaultValue={message} onBlur={handleChange}></textarea>
-          <button type="submit" class="btn"> send <i class="fas fa-paper-plane"></i> </button>
-      </form>
-*/}
+
       </div>
     </section>
   );
