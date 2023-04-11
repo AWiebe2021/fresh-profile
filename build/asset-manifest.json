@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fresh-profile/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/fresh-profile/static/js/main.bea793db.chunk.js",
+    "main.js.map": "/fresh-profile/static/js/main.bea793db.chunk.js.map",
+    "runtime-main.js": "/fresh-profile/static/js/runtime-main.663cd50f.js",
+    "runtime-main.js.map": "/fresh-profile/static/js/runtime-main.663cd50f.js.map",
+    "static/js/2.88355985.chunk.js": "/fresh-profile/static/js/2.88355985.chunk.js",
+    "static/js/2.88355985.chunk.js.map": "/fresh-profile/static/js/2.88355985.chunk.js.map",
+    "index.html": "/fresh-profile/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/fresh-profile/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.88355985.chunk.js.LICENSE.txt": "/fresh-profile/static/js/2.88355985.chunk.js.LICENSE.txt",
+    "static/media/Resume-Aaron-Wiebe.4ac2d89c.pdf": "/fresh-profile/static/media/Resume-Aaron-Wiebe.4ac2d89c.pdf",
+    "static/media/img1.8cfa8e6b.png": "/fresh-profile/static/media/img1.8cfa8e6b.png",
+    "static/media/img2.d380be0a.png": "/fresh-profile/static/media/img2.d380be0a.png",
+    "static/media/img3.fcde2be5.mp4": "/fresh-profile/static/media/img3.fcde2be5.mp4",
+    "static/media/img4.e50e5044.png": "/fresh-profile/static/media/img4.e50e5044.png",
+    "static/media/img5.c7f82c9c.png": "/fresh-profile/static/media/img5.c7f82c9c.png",
+    "static/media/img6.02d022d6.png": "/fresh-profile/static/media/img6.02d022d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663cd50f.js",
+    "static/js/2.88355985.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bea793db.chunk.js"
+  ]
+}
